@@ -1,0 +1,12 @@
+{
+  "name": "pampa-drive-notifications",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^1.7.9",
+    "googleapis": "^144.0.0"
+  }
+}
