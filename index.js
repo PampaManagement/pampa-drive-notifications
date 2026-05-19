@@ -30,6 +30,11 @@ const MODELS = {
     onlyfans: process.env.KALIA_ONLYFANS_WEBHOOK,
     marketing: process.env.KALIA_MARKETING_WEBHOOK,
   },
+  "Mariah Management": {
+  name: "Mariah",
+  onlyfans: process.env.MARIAH_ONLYFANS_WEBHOOK,
+  marketing: process.env.MARIAH_MARKETING_WEBHOOK,
+},
 };
 
 function loadState() {
